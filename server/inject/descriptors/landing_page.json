@@ -13,7 +13,7 @@
     },
     "password": {
       "type": "string",
-      "selector": "[name=\"psswd\"]",
+      "selector": ".client_account_password",
       "control": "text"
     }
   },
