@@ -13,7 +13,7 @@
     },
     "password": {
       "type": "string",
-      "selector": ".client_account_password",
+      "selector": "[name=\"client_account[password]\"]",
       "control": "text"
     }
   },
