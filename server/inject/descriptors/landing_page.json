@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "is_landing": {
+      "type": "identifier",
+      "selector": "[name=\"opening_page\"]",
+      "control": "exists"
+    }
+  },
+  "connect": []
+}
