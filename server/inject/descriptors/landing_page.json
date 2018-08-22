@@ -5,6 +5,16 @@
       "type": "identifier",
       "selector": "[name=\"opening_page\"]",
       "control": "exists"
+    },
+    "username": {
+      "type": "string",
+      "selector": "[name=\"flex_user_code\"]",
+      "control": "text"
+    },
+    "password": {
+      "type": "string",
+      "selector": "[name=\"psswd\"]",
+      "control": "text"
     }
   },
   "connect": []
