@@ -13,8 +13,8 @@
     },
     "password": {
       "type": "string",
-      "selector": "[name=\"client_account[password]\"]",
-      "control": "text"
+      "control": "text",
+      "selector": "[name=\"psswd\"]"
     }
   },
   "connect": []
