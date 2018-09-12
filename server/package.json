@@ -1,6 +1,6 @@
 {
   "name": "test_repo",
-  "version": "5.2.14",
+  "version": "5.2.10",
   "private": true,
   "description": "PowWow transformation",
   "main": "start.js",
