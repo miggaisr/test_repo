@@ -21,7 +21,7 @@
       "type": "action",
       "selector": ".menu_buttons",
       "control": "action.click",
-      "selectContains": "MS3 support"
+      "selectContains": "MS3"
     }
   },
   "connect": []
