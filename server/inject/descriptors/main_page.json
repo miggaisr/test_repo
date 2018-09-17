@@ -15,7 +15,7 @@
     "goToMs3Support": {
       "type": "action",
       "selector": ".menu_buttons",
-      "control": "action.click",
+      "control": "action.link",
       "selectContains": "MS3"
     },
     "is_general": {
