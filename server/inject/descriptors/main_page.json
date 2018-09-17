@@ -11,12 +11,6 @@
       "selector": ".main_menu_header",
       "control": "action.click",
       "selectContains": "General"
-    },
-    "goToMs3Support": {
-      "type": "action",
-      "selector": ".menu_buttons",
-      "control": "action.click",
-      "selectContains": "MS3"
     }
   },
   "connect": [
