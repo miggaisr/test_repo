@@ -24,5 +24,14 @@
       "selectContains": "MS3"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "action": "goToGeneral"
+    },
+    {
+      "match": [],
+      "action": "goToMs3Support"
+    }
+  ]
 }
