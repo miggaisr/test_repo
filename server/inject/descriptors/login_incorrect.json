@@ -14,5 +14,12 @@
       "selectContains": "log in again"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "is_login_incorrect"
+      ],
+      "action": "login_again"
+    }
+  ]
 }
