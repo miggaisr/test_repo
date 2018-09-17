@@ -30,13 +30,9 @@
       "match": [
         "is_main"
       ],
-      "action": "goToGeneral"
-    },
-    {
-      "match": [
-        "is_general"
-      ],
-      "action": "goToMs3Support"
+      "screens": [
+        "home"
+      ]
     }
   ]
 }
