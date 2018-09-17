@@ -10,14 +10,12 @@
       "type": "string",
       "selector": "#logged",
       "control": "property.innerText"
+    },
+    "goToMs3Support": {
+      "type": "action",
+      "selector": "#General",
+      "control": "action.button"
     }
   },
-  "connect": [
-    {
-      "match": [],
-      "screens": [
-        "home"
-      ]
-    }
-  ]
+  "connect": []
 }
