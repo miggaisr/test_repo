@@ -6,6 +6,12 @@
       "selector": ".work.frame_border",
       "control": "exists",
       "selectContains": "Yaron"
+    },
+    "support_details": {
+      "type": "string",
+      "selector": ".work.frame_border",
+      "control": "property.innerText",
+      "selectContains": "Yaron"
     }
   },
   "connect": [
