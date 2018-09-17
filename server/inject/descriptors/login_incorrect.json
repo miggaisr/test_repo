@@ -3,8 +3,9 @@
   "properties": {
     "is_login_incorrect": {
       "type": "identifier",
-      "selector": "#main_layer",
-      "control": "property.innerHTML"
+      "selector": ".error_m",
+      "control": "exists",
+      "selectContains": "Password is incorrect"
     },
     "login_again": {
       "type": "action",
