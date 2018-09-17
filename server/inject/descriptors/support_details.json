@@ -6,6 +6,12 @@
       "selector": ".menu_buttons",
       "control": "exists",
       "selectContains": "MS3"
+    },
+    "support_details": {
+      "type": "string",
+      "selector": ".work.frame_border",
+      "control": "property.innerText",
+      "selectContains": "Yaron"
     }
   },
   "connect": [
