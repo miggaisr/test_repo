@@ -10,7 +10,7 @@
     "login_again": {
       "type": "action",
       "control": "action.button",
-      "selector": "..orange_button",
+      "selector": ".orange_button",
       "selectContains": "log in again"
     }
   },
