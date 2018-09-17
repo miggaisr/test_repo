@@ -16,7 +16,9 @@
   },
   "connect": [
     {
-      "match": [],
+      "match": [
+        "is_support"
+      ],
       "screens": [
         "home"
       ]

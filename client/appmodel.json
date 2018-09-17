@@ -94,6 +94,10 @@
   },
   "ms3_support": {
     "type": "object",
-    "properties": {}
+    "properties": {
+      "support_details": {
+        "type": "string"
+      }
+    }
   }
 }
