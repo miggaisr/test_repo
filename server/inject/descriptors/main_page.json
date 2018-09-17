@@ -2,9 +2,7 @@
   "type": "object",
   "properties": {
     "is_main": {
-      "type": "identifier",
-      "selector": "#main_layer",
-      "control": "exists"
+      "type": "identifier"
     },
     "logged_details": {
       "type": "string",
