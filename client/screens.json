@@ -33,7 +33,7 @@
       "name": "Home",
       "sourceScreenId": "app.home.homecool",
       "sourceAppId": "universaltemplates",
-      "model": "main_page"
+      "model": "ms3_support"
     }
   ],
   "sourceAppId": "_blank",
