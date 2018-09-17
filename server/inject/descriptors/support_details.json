@@ -8,5 +8,14 @@
       "selectContains": "MS3"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "is_support"
+      ],
+      "screens": [
+        "home"
+      ]
+    }
+  ]
 }

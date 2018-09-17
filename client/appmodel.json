@@ -129,5 +129,9 @@
         "type": "action"
       }
     }
+  },
+  "support_details": {
+    "type": "object",
+    "properties": {}
   }
 }
