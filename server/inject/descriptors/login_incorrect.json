@@ -13,5 +13,12 @@
       "selector": ".orange_button"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "is_login_incorrect"
+      ],
+      "action": "loginAgain"
+    }
+  ]
 }
