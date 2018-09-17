@@ -13,12 +13,5 @@
       "selector": ".orange_button"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "is_login_incorrect"
-      ],
-      "action": "login_again"
-    }
-  ]
+  "connect": []
 }
