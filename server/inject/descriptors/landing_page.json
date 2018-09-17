@@ -9,12 +9,12 @@
     "username": {
       "type": "string",
       "selector": "[name=\"flex_user_code\"]",
-      "control": "text"
+      "control": "property.innerText"
     },
     "password": {
       "type": "string",
-      "control": "text",
-      "selector": "[name=\"psswd\"]"
+      "selector": "[name=\"psswd\"]",
+      "control": "property.innerText"
     },
     "submit": {
       "type": "action",
@@ -22,14 +22,5 @@
       "control": "action.button"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "is_landing"
-      ],
-      "screens": [
-        "login"
-      ]
-    }
-  ]
+  "connect": []
 }
