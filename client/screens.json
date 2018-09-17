@@ -27,13 +27,6 @@
       "sourceScreenId": "app.login.logincool",
       "sourceAppId": "universaltemplates",
       "model": "landing_page"
-    },
-    {
-      "id": "home",
-      "name": "Home",
-      "sourceScreenId": "app.home.homecool",
-      "sourceAppId": "universaltemplates",
-      "model": "main_page"
     }
   ],
   "sourceAppId": "_blank",
