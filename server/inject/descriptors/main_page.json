@@ -23,6 +23,11 @@
       "selector": ".main_menu_header",
       "control": "exists",
       "selectContains": "General"
+    },
+    "logged_details": {
+      "type": "string",
+      "selector": "#logged",
+      "control": "property.innerText"
     }
   },
   "connect": [
