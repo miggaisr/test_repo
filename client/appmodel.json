@@ -80,5 +80,16 @@
         "type": "action"
       }
     }
+  },
+  "main_page": {
+    "type": "object",
+    "properties": {
+      "is_main": {
+        "type": "string"
+      },
+      "logged_details": {
+        "type": "string"
+      }
+    }
   }
 }
