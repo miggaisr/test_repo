@@ -9,8 +9,9 @@
     },
     "login_again": {
       "type": "action",
-      "selector": "#main_layer",
-      "control": "property.innerHTML"
+      "control": "action.button",
+      "selector": "..orange_button",
+      "selectContains": "log in again"
     }
   },
   "connect": []
