@@ -13,8 +13,9 @@
     },
     "goToMs3Support": {
       "type": "action",
-      "selector": "#General",
-      "control": "action.link"
+      "selector": ".main_menu_header",
+      "control": "action.click",
+      "selectContains": "General"
     }
   },
   "connect": []
