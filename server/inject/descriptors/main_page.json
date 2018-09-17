@@ -27,11 +27,13 @@
   "connect": [
     {
       "match": [],
-      "action": "goToGeneral"
+      "action": "goToGeneral",
+      "model": "main_page"
     },
     {
       "match": [],
-      "action": "goToMs3Support"
+      "action": "goToMs3Support",
+      "model": "main_page"
     }
   ]
 }
