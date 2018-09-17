@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "is_support": {
+      "type": "identifier",
+      "selector": "#main_layer",
+      "control": "property.innerHTML"
+    }
+  },
+  "connect": []
+}
