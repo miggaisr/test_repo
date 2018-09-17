@@ -24,16 +24,5 @@
       "selectContains": "MS3"
     }
   },
-  "connect": [
-    {
-      "match": [],
-      "action": "goToGeneral",
-      "model": "main_page"
-    },
-    {
-      "match": [],
-      "action": "goToMs3Support",
-      "model": "main_page"
-    }
-  ]
+  "connect": []
 }
