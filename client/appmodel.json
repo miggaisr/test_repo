@@ -89,6 +89,12 @@
       },
       "logged_details": {
         "type": "string"
+      },
+      "goToGeneral": {
+        "type": "action"
+      },
+      "goToMs3Support": {
+        "type": "action"
       }
     }
   },

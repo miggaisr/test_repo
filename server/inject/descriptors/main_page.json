@@ -24,5 +24,12 @@
       "selectContains": "MS3"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "home"
+      ]
+    }
+  ]
 }
