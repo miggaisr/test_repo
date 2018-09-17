@@ -18,8 +18,7 @@
       "match": [
         "is_main"
       ],
-      "action": "goToGeneral",
-      "model": "main_page"
+      "action": "goToGeneral"
     }
   ]
 }
