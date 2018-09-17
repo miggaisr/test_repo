@@ -29,9 +29,14 @@
       "match": [
         "is_main"
       ],
-      "screens": [
-        "home"
+      "action": "goToGeneral",
+      "model": "main_page"
+    },
+    {
+      "match": [
+        "is_main"
       ],
+      "action": "goToMs3Support",
       "model": "main_page"
     }
   ]
