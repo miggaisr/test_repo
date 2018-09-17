@@ -5,6 +5,11 @@
       "type": "string",
       "selector": "#main_layer",
       "control": "exists"
+    },
+    "logged_details": {
+      "type": "string",
+      "selector": "#logged",
+      "control": "property.innerText"
     }
   },
   "connect": []
