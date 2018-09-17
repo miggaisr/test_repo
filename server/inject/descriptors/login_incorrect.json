@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "is_login_incorrect": {
+      "type": "identifier",
+      "selector": "#main_layer",
+      "control": "property.innerHTML"
+    },
+    "login_again": {
+      "type": "action",
+      "selector": "#main_layer",
+      "control": "property.innerHTML"
+    }
+  },
+  "connect": []
+}
