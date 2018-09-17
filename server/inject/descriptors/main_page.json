@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "is_main": {
+      "type": "identifier",
+      "selector": "#main_layer",
+      "control": "exists"
+    }
+  },
+  "connect": []
+}
