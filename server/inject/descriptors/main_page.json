@@ -14,7 +14,7 @@
     "goToMs3Support": {
       "type": "action",
       "selector": "#General",
-      "control": "action.button"
+      "control": "action.link"
     }
   },
   "connect": []
