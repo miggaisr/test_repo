@@ -3,8 +3,9 @@
   "properties": {
     "is_support": {
       "type": "identifier",
-      "selector": "#main_layer",
-      "control": "property.innerHTML"
+      "selector": ".menu_buttons",
+      "control": "exists",
+      "selectContains": "MS3"
     }
   },
   "connect": []
