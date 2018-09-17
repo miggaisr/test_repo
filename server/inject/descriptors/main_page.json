@@ -17,6 +17,12 @@
       "selector": ".menu_buttons",
       "control": "action.click",
       "selectContains": "MS3"
+    },
+    "is_general": {
+      "type": "identifier",
+      "selector": ".main_menu_header",
+      "control": "exists",
+      "selectContains": "General"
     }
   },
   "connect": [
