@@ -1,6 +1,12 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "is_support": {
+      "type": "identifier",
+      "selector": ".work.frame_border",
+      "control": "property.innerHTML"
+    }
+  },
   "connect": [
     {
       "match": [],
