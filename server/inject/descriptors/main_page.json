@@ -6,11 +6,6 @@
       "selector": "#main_layer",
       "control": "exists"
     },
-    "logged_details": {
-      "type": "string",
-      "selector": "#logged",
-      "control": "property.innerText"
-    },
     "goToGeneral": {
       "type": "action",
       "selector": ".main_menu_header",
