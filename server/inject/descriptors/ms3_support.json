@@ -4,7 +4,8 @@
     "is_support": {
       "type": "identifier",
       "selector": ".work.frame_border",
-      "control": "property.innerHTML"
+      "control": "exists",
+      "selectContains": "Yaron"
     }
   },
   "connect": [
