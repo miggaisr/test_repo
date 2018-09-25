@@ -28,6 +28,22 @@
       "type": "string",
       "selector": "#logged",
       "control": "property.innerText"
+    },
+    "OBJECT": {
+      "type": "object",
+      "selector": "#monitor",
+      "properties": {
+        "is_monitor": {
+          "type": "identifier",
+          "selector": "#monitor",
+          "control": "exists"
+        },
+        "monitor_html": {
+          "type": "string",
+          "selector": "#monitor",
+          "control": "property.innerHTML"
+        }
+      }
     }
   },
   "connect": [
