@@ -31,7 +31,6 @@
     },
     "OBJECT": {
       "type": "object",
-      "selector": "#monitor",
       "properties": {
         "is_monitor": {
           "type": "identifier",
