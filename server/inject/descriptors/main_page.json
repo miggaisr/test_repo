@@ -53,6 +53,14 @@
       "screens": [
         "home"
       ]
+    },
+    {
+      "match": [
+        "OBJECT.is_monitor"
+      ],
+      "screens": [
+        "monitor"
+      ]
     }
   ]
 }

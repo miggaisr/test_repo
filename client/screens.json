@@ -40,7 +40,7 @@
       "name": "monitor",
       "sourceScreenId": "app.formlarge.formlargecool",
       "sourceAppId": "universaltemplates",
-      "model": "monitor"
+      "model": "main_page"
     }
   ],
   "sourceAppId": "_blank",
