@@ -51,14 +51,5 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.newmenu', {
-        views: {
-            app: {
-                controller: 'app_newmenu',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.newmenu');
-                }
-            }
-        }
     });
 });
