@@ -34,6 +34,13 @@
       "sourceScreenId": "app.home.homecool",
       "sourceAppId": "universaltemplates",
       "model": "main_page"
+    },
+    {
+      "id": "newmenu",
+      "name": "NewMenu",
+      "sourceScreenId": "app.formlarge.formlargecool",
+      "sourceAppId": "universaltemplates",
+      "model": "newmenu"
     }
   ],
   "sourceAppId": "_blank",
