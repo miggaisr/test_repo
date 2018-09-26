@@ -2,7 +2,9 @@
   "type": "object",
   "properties": {
     "is_main": {
-      "type": "string"
+      "type": "string",
+      "selector": "#logged",
+      "control": "exists"
     },
     "goToGeneral": {
       "type": "action",
