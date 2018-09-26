@@ -1,23 +1,6 @@
 {
   "type": "object",
   "properties": {
-    "is_main": {
-      "type": "string",
-      "selector": "#logged",
-      "control": "exists"
-    },
-    "goToGeneral": {
-      "type": "action",
-      "selector": ".main_menu_header",
-      "control": "action.click",
-      "selectContains": "General"
-    },
-    "goToMs3Support": {
-      "type": "action",
-      "selector": ".menu_buttons",
-      "control": "action.link",
-      "selectContains": "MS3"
-    },
     "logged_details": {
       "type": "string",
       "selector": "#logged",
