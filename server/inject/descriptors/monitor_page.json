@@ -8,7 +8,7 @@
     },
     "replica": {
       "type": "string",
-      "selector": "td",
+      "selector": "tr",
       "control": "property.innerHTML"
     }
   },
