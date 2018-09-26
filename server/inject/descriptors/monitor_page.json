@@ -8,8 +8,8 @@
     },
     "replica": {
       "type": "string",
-      "selector": "tr",
-      "control": "property.innerHTML"
+      "selector": "h2",
+      "control": "property.innerText"
     }
   },
   "connect": [
