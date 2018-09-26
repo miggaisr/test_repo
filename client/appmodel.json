@@ -269,14 +269,6 @@
   },
   "monitor_page": {
     "type": "object",
-    "properties": {
-      "monitor_html": {
-        "type": "string",
-        "update": {
-          "type": "change",
-          "dynamic": false
-        }
-      }
-    }
+    "properties": {}
   }
 }
