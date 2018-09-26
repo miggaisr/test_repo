@@ -12,14 +12,5 @@
       "control": "property.innerText"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "is_monitor"
-      ],
-      "screens": [
-        "monitor"
-      ]
-    }
-  ]
+  "connect": []
 }
