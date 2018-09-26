@@ -269,6 +269,10 @@
   },
   "monitor_page": {
     "type": "object",
-    "properties": {}
+    "properties": {
+      "on_duty": {
+        "type": "string"
+      }
+    }
   }
 }
