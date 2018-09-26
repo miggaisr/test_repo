@@ -6,7 +6,7 @@
       "selector": "#monitor",
       "control": "exists"
     },
-    "replica": {
+    "on_duty": {
       "type": "string",
       "selector": "#on_duty",
       "control": "property.innerText"
