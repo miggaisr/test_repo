@@ -19,7 +19,8 @@
       ],
       "screens": [
         "monitor"
-      ]
+      ],
+      "model": "monitor_page"
     }
   ]
 }
