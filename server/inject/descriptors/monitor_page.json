@@ -6,19 +6,10 @@
       "selector": "#monitor",
       "control": "exists"
     },
-    "monitor_html": {
-      "type": "array",
-      "selectorAll": "#monitor",
-      "items": {
-        "type": "object",
-        "properties": {
-          "replica": {
-            "type": "string",
-            "selector": "td",
-            "control": "property.innerHTML"
-          }
-        }
-      }
+    "replica": {
+      "type": "string",
+      "selector": "td",
+      "control": "property.innerHTML"
     }
   },
   "connect": [
