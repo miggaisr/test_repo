@@ -8,7 +8,7 @@
     },
     "replica": {
       "type": "string",
-      "selector": "h2",
+      "selector": "#on_duty",
       "control": "property.innerText"
     }
   },
