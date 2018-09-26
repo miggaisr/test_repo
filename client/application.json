@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "a3cf467b",
   "uiCommonVersion": "5.2.20",
-  "creatorId": "miggaisr"
+  "creatorId": "miggaisr",
+  "id": "test_repo",
+  "previewImageURL": "/previews/a3cf467b-test_repo/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/miggaisr/test_repo",
+  "creatorName": "Gadi Israeli",
+  "sdks": []
 }
