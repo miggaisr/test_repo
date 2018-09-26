@@ -271,7 +271,11 @@
     "type": "object",
     "properties": {
       "on_duty": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "change",
+          "dynamic": false
+        }
       }
     }
   }
