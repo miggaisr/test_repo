@@ -19,7 +19,8 @@
       ],
       "screens": [
         "home"
-      ]
+      ],
+      "model": "main_page"
     }
   ]
 }
