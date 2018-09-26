@@ -14,9 +14,8 @@
         "properties": {
           "replica": {
             "type": "string",
-            "selector": "#monitor",
-            "control": "property.innerHTML",
-            "selectContains": "replica"
+            "selector": "table",
+            "control": "property.innerHTML"
           }
         }
       }
