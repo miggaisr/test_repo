@@ -273,8 +273,7 @@
       "on_duty": {
         "type": "string",
         "update": {
-          "type": "change",
-          "dynamic": false
+          "type": "none"
         }
       }
     }
