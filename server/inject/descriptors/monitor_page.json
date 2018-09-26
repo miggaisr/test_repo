@@ -7,9 +7,12 @@
       "control": "exists"
     },
     "monitor_html": {
-      "type": "string",
-      "selector": "#monitor",
-      "control": "property.innerText"
+      "type": "array",
+      "selectorAll": "#monitor",
+      "items": {
+        "type": "object",
+        "properties": {}
+      }
     }
   },
   "connect": [
