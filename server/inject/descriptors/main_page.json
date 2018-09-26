@@ -5,6 +5,11 @@
       "type": "string",
       "selector": "#logged",
       "control": "property.innerText"
+    },
+    "is_main": {
+      "type": "identifier",
+      "selector": "#logged",
+      "control": "exists"
     }
   },
   "connect": [
