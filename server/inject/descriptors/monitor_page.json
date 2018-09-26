@@ -9,7 +9,7 @@
     "monitor_html": {
       "type": "string",
       "selector": "#monitor",
-      "control": "text"
+      "control": "property.innerText"
     }
   },
   "connect": [
