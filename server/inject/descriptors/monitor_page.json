@@ -11,7 +11,14 @@
       "selectorAll": "#monitor",
       "items": {
         "type": "object",
-        "properties": {}
+        "properties": {
+          "replica": {
+            "type": "string",
+            "selector": "#monitor",
+            "control": "property.innerHTML",
+            "selectContains": "replica"
+          }
+        }
       }
     }
   },
